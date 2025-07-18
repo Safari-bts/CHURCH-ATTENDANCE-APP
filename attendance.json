@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2025-07-06",
+        "service": "Sunday First Service",
+        "males": 300,
+        "females": 200,
+        "children": 250,
+        "total": 750,
+        "recorded_by": "ADMIN",
+        "timestamp": "2025-07-08 14:11:04"
+    },
+    {
+        "date": "2025-07-06",
+        "service": "Sunday First Service",
+        "males": 100,
+        "females": 100,
+        "children": 222,
+        "total": 422,
+        "recorded_by": "ADMIN",
+        "timestamp": "2025-07-05 16:45:16"
+    },
+    {
+        "date": "2025-07-06",
+        "service": "Sunday Second Service",
+        "males": 123,
+        "females": 345,
+        "children": 567,
+        "total": 1035,
+        "recorded_by": "ADMIN",
+        "timestamp": "2025-07-05 17:24:07"
+    },
+    {
+        "date": "2025-07-09",
+        "service": "Wednesday Evening Service",
+        "males": 300,
+        "females": 400,
+        "children": 500,
+        "total": 1200,
+        "recorded_by": "ADMIN",
+        "timestamp": "2025-07-08 14:12:10"
+    }
+]
